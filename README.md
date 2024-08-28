@@ -16,7 +16,26 @@ Este portafolio contiene algunos de los proyectos más destacados en los que he 
     - seaborn
 - **Enlace al proyecto**: [Riesgo crediticio](https://github.com/EnzoValle-data-science/Riesgo-crediticio)
 
+### 2. Detección de Rostros con Liveness Detection
+- **Descripción**: Sistema de detección de rostros con capacidades de reconocimiento de "liveness" para mejorar la precisión en la identificación facial. Creé un dataset personalizado con imágenes de rostros y usé tanto modelos propios como preentrenados. Implementé un sistema en tiempo real con bounding boxes y etiquetas.
+- **Tecnologías**:
+  - **Python**: Para el procesamiento y entrenamiento del modelo.
+  - **Librerías**:
+    - TensorFlow
+    - Keras
+    - OpenCV
+    - numpy
+    - pandas
+- **Enlace al proyecto**: [Liveness Detection](https://github.com/EnzoValle-data-science/Deteccion-rostros)
+
+
 
 ## Contacto
 - **LinkedIn**: [Enzo Maximiliano Valle Mateluna](https://www.linkedin.com/in/enzo-maximiliano-valle-mateluna-171127260/)
 - **Correo**: enzo.valle.contacto@gmail.com
+
+
+
+
+
+
