@@ -28,7 +28,19 @@ Este portafolio contiene algunos de los proyectos más destacados en los que he 
     - pandas
 - **Enlace al proyecto**: [Liveness Detection](https://github.com/EnzoValle-data-science/Deteccion-rostros)
 
-
+### 3. Reconocimiento de Objetos en Imágenes de Supermercados
+- **Descripción**: Creación de un sistema de reconocimiento de artículos de supermercados. Desarrollé un dataset con al menos 12 clases utilizando makesense.ai. Implementé modelos propios y modelos CNN/DL preentrenados como MobileNet, DenseNet169, VGG19, InceptionV3 y ResNet50.
+- **Tecnologías**:
+  - **Python**: Para el entrenamiento y ajuste de los modelos.
+  - **Librerías**:
+    - TensorFlow
+    - Keras
+    - OpenCV
+    - numpy
+    - pandas
+- **Herramientas gratuitas**:
+  - makesense.ai
+- **Enlace al proyecto**: [Reconocimiento de objetos](https://github.com/EnzoValle-data-science/Reconocimientos-de-objetos)
 
 ## Contacto
 - **LinkedIn**: [Enzo Maximiliano Valle Mateluna](https://www.linkedin.com/in/enzo-maximiliano-valle-mateluna-171127260/)
