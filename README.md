@@ -5,7 +5,7 @@ Este portafolio contiene algunos de los proyectos más destacados en los que he 
 ## Proyectos Destacados
 
 ### 1. Predicción de Riesgo Crediticio
-- **Descripción**: Implementación de modelos supervisados para predecir el riesgo de incumplimiento de crédito. Utilicé los datasets de Lending Club y un conjunto de datos alineado con IFRS 9.
+- **Descripción**: Implementación de modelos supervisados para predecir el riesgo de incumplimiento de crédito. Utilicé los datasets de Lending Club y un conjunto de datos alineado con la normativa IFRS 9.
 - **Tecnologías**: 
   - **Python**: Utilizado para el análisis y modelado.
   - **Librerías**:
