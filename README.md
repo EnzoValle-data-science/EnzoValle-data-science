@@ -14,7 +14,8 @@ Este portafolio contiene algunos de los proyectos más destacados en los que he 
     - SMOTE
     - matplotlib
     - seaborn
-- **Duración del proyecto : El proyecto fue completado en el transcurso de un año, distribuyéndose en dos asignaturas universitarias: Trabajo de Título 1 y Trabajo de Título 2. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
+      
+- **Duración del proyecto** : El proyecto fue completado en el transcurso de un año, distribuyéndose en dos asignaturas universitarias: Trabajo de Título 1 y Trabajo de Título 2. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
 - **Enlace al proyecto**: [Riesgo crediticio](https://github.com/EnzoValle-data-science/Riesgo-crediticio)
 
 ### 2. Detección de Rostros con Liveness Detection
@@ -27,7 +28,7 @@ Este portafolio contiene algunos de los proyectos más destacados en los que he 
     - OpenCV
     - numpy
     - pandas
-- **Duración del proyecto : El proyecto fue completado en el transcurso de 3 semanas. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
+- **Duración del proyecto** : El proyecto fue completado en el transcurso de 3 semanas. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
 - **Enlace al proyecto**: [Liveness Detection](https://github.com/EnzoValle-data-science/Deteccion-rostros)
 
 ### 3. Reconocimiento de Objetos en Imágenes de Supermercados
@@ -42,7 +43,7 @@ Este portafolio contiene algunos de los proyectos más destacados en los que he 
     - pandas
 - **Herramientas gratuitas**:
   - makesense.ai
-- **Duración del proyecto : El proyecto fue completado en el transcurso de tres semanas. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
+- **Duración del proyecto** : El proyecto fue completado en el transcurso de tres semanas. La dedicación de horas-hombre varió según mi disponibilidad a lo largo de este período.
 - **Enlace al proyecto**: [Reconocimiento de objetos](https://github.com/EnzoValle-data-science/Reconocimientos-de-objetos)
 
 Correcto, Google Colab y PowerBI son herramientas, no librerías. Aquí tienes el formato del proyecto de Metrogas:
@@ -57,7 +58,7 @@ Correcto, Google Colab y PowerBI son herramientas, no librerías. Aquí tienes e
 - **Herramientas gratuitas**: 
   - PowerBI
   - Google Colab
-- **Duración del proyecto : El proyecto fue completado en el transcurso de un mes. La dedicación de horas-hombre varió según la cantidad de proyectos y eventos que me asignaran.
+- **Duración del proyecto** : El proyecto fue completado en el transcurso de un mes. La dedicación de horas-hombre varió según la cantidad de proyectos y eventos que me asignaran.
 - **Enlace al proyecto**: [Metrogas Proyecto](https://github.com/EnzoValle-data-science/Metrogas-Proyecto)
 
 
