@@ -42,6 +42,21 @@ Este portafolio contiene algunos de los proyectos más destacados en los que he 
   - makesense.ai
 - **Enlace al proyecto**: [Reconocimiento de objetos](https://github.com/EnzoValle-data-science/Reconocimientos-de-objetos)
 
+Correcto, Google Colab y PowerBI son herramientas, no librerías. Aquí tienes el formato del proyecto de Metrogas:
+
+
+
+### 4. Automatización de Informes en FonoRed para Metrogas
+- **Descripción**: Desarrollo de un informe financiero en PowerBI para el área FonoRed de Metrogas. Se realizó un análisis exploratorio de datos (EDA) y un proceso de transformación y carga de datos (ETL) para limpiar y estructurar información de múltiples formularios interrelacionados, automatizando el reporte de desempeño de visitas y presupuesto asignado. Se solucionaron errores en indicadores preexistentes y se crearon nuevos indicadores clave, todos aprobados por los supervisores.
+- **Librerías**:
+  - pandas
+  - numpy
+- **Herramientas gratuitas**: 
+  - PowerBI
+  - Google Colab
+- **Enlace al proyecto**: [Metrogas Proyecto](https://github.com/EnzoValle-data-science/Metrogas-Proyecto)
+
+Este formato contiene solo las librerías y herramientas correctas.
 ## Contacto
 - **LinkedIn**: [Enzo Maximiliano Valle Mateluna](https://www.linkedin.com/in/enzo-maximiliano-valle-mateluna-171127260/)
 - **Correo**: enzo.valle.contacto@gmail.com
